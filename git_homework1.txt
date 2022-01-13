@@ -1,0 +1,40 @@
+4.  Создал внешний репо на Github - JSON
+5.  Скопировал ссылку. Прописал команду GitBash git init в папке GIT_Homework_1
+    GitBash git clone https://github.com/hle6/JSON.git
+6.  GitBashh cd JSON
+    GitBash cat > new.json
+7.  GItBash git add new.json
+8.  GitBash git commit -m "add new.json"
+9.  GitBash git push
+10. GitBash cat > new.json
+{ "name":"Mikhaylov Andrey Pavlovich",
+  "age": 26,
+  "pet":"cat",
+  "salary": 1000000
+}
+11. GitBash git add new.json
+    GitBash git commit -m "update new.json"
+	GitBash pull 
+12-13 GitBash cat > preferences.json
+{ "film":"The Shining",
+
+  "serial":"The office",
+  "food":"steaks",
+  "season":"summer",
+  "countrt":"Japan"
+}
+14. GitBash cat > skills.json
+
+{ "skills":"python","testinng","GitHub","code"
+}
+15. GitBash git add .; git commit -m "add 2 files"; git push
+16. Создаю файл bug_report.json на GitHub'e
+17. Commit changes
+18. {
+  "system":"Windows 10", 
+  "URL":"https://www.utest.com/find_bugs",
+  "location":"cart",
+  "moves":"When i add 3 items and push update all is crushing"
+}
+19. Commit changes
+20. GitBash git pull
